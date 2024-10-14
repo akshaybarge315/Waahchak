@@ -60,7 +60,7 @@ Waahchak is a comprehensive ebook web application designed for book enthusiasts.
 
 ### Video Demo
 
-Watch the full demo of GastroGrid in action:
+Watch the full demo of Waahchak:
 
 [![Waahchak Demo](images/homepageY.PNG)](https://youtu.be/7S_HJTyJFLk)
 
