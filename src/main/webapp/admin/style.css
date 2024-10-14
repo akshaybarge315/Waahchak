@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@import
+	url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap")
+	;
+
+.bg-custom {
+	background-color: #b86111;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: white;
+	color: #b86111;
+	border-radius: 14px;
+}
